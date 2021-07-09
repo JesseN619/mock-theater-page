@@ -1,0 +1,123 @@
+nav{
+    background-color: black;
+    padding-left: 8vw;
+}
+
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navbarNav{
+    justify-content: center;
+}
+
+.navbar-nav{
+    text-align: center;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.nav-item{
+    padding-left: 20px;
+}
+
+.nav-link{
+    font-size: 75%;
+}
+
+.main-container{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background{
+    padding: 0;
+}
+
+h1 {
+    display: inline;
+    color: white;
+    font-size: 7vw;
+    position: absolute;
+    top: 15%;
+    text-align: center;
+}
+
+.middle-content{
+    margin-top: 75px;
+}
+
+.date {
+    font-size: 100%;
+    border: 1px solid rgb(194, 194, 194);
+    background: rgb(241, 241, 241);
+    padding: 2px 0 2px 30px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+.show-section{
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.actors-img{
+    height: 120px;
+}
+
+.show-info{
+    padding: 0 30px;
+    font-size: 70%;
+}
+
+h3{
+    font-size: 140%;
+}
+
+.read-more{
+    margin-left: auto;
+}
+
+button{
+    background: goldenrod;
+    color: white;
+    border: 1px solid gray;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.footer {
+    background: black;
+    height: 300px;
+    padding: 50px;
+    color: white;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.footer-h2{
+    font-size: 130%;
+}
+
+.map-img{
+    width: 100%;
+    max-width: 200px;
+}
+
+.footer ul{
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 60%;
+}
+
+.footer li{
+    padding-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-section{
+    padding-left: 20px;
+}
